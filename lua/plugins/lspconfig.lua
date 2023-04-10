@@ -105,6 +105,7 @@ function user.setup_mason()
       'html',
       'cssls',
       'lua_ls',
+			'volar',
     }
   })
 end
